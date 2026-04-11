@@ -35,7 +35,7 @@ From today onward, I will solve **one Data Structures and Algorithms (DSA) probl
 | Day 2 | 704. Binary Search | Array | 🟩 |
 | Day 3 | 326. Power of Three | Math | 🟩 |
 | Day 4 | 9. Palindrome Number | Array | 🟩 |
-| Day 5 |  |  |  |
+| Day 5 | 26. Remove Duplicates from Sorted Array | Array | 🟩 |
 | Day 6 |  |  |  |
 | Day 7 |  |  |  |
 
