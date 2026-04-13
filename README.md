@@ -36,7 +36,7 @@ From today onward, I will solve **one Data Structures and Algorithms (DSA) probl
 | Day 3 | 326. Power of Three | Math | 🟩 |
 | Day 4 | 9. Palindrome Number | Array | 🟩 |
 | Day 5 | 26. Remove Duplicates from Sorted Array | Array | 🟩 |
-| Day 6 |  |  |  |
+| Day 6 | 80. Remove Duplicates from Sorted Array II | Array | 🟩 |
 | Day 7 |  |  |  |
 
 ---
