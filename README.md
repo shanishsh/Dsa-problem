@@ -37,7 +37,11 @@ From today onward, I will solve **one Data Structures and Algorithms (DSA) probl
 | Day 4 | 9. Palindrome Number | Array | 🟩 |
 | Day 5 | 26. Remove Duplicates from Sorted Array | Array | 🟩 |
 | Day 6 | 80. Remove Duplicates from Sorted Array II | Array | 🟩 |
-| Day 7 |  |  |  |
+| Day 7 | 485. Max Consecutive Ones | Array | 🟩 |
+| Day 8 |  |  |  |
+| Day 9 |  |  |  |
+| Day 10 |  |  |  |
+| Day 11 |  |  |  |
 
 ---
 
