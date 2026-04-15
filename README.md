@@ -38,7 +38,7 @@ From today onward, I will solve **one Data Structures and Algorithms (DSA) probl
 | Day 5 | 26. Remove Duplicates from Sorted Array | Array | 🟩 |
 | Day 6 | 80. Remove Duplicates from Sorted Array II | Array | 🟩 |
 | Day 7 | 485. Max Consecutive Ones | Array | 🟩 |
-| Day 8 |  |  |  |
+| Day 8 | 1470. Shuffle the Array | Array | 🟩 |
 | Day 9 |  |  |  |
 | Day 10 |  |  |  |
 | Day 11 |  |  |  |
