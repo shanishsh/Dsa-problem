@@ -31,7 +31,7 @@ From today onward, I will solve **one Data Structures and Algorithms (DSA) probl
 
 | Day | Problem | Topic | Status |
 |-----|---------|-------|--------|
-| Day 1 | Best Time to Buy and Sell Stock | Array | 🟩 |
+| Day 1 | 26. Best Time to Buy and Sell Stock | Array | 🟩 |
 | Day 2 | 704. Binary Search | Array | 🟩 |
 | Day 3 | 326. Power of Three | Math | 🟩 |
 | Day 4 | 9. Palindrome Number | Array | 🟩 |
